@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.pdf-page {
+  /* height: 1100px; */
+  height: 1121px;
+  padding: 0;
+  margin: 0;
+  border: solid 1px rgb(255, 255, 255);
+  position: relative;
+}
+
+.font-inconsolata {
+  font-family: 'Inconsolata';
+}
+
+.font-noto {
+  font-family: 'Noto Sans';
+}
+
+.font-inconsolata {
+  font-family: 'Inconsolata';
+  /* font-family: "Open Sans Condensed"; */
+  /* font-family: "Noto Sans"; */
+}
